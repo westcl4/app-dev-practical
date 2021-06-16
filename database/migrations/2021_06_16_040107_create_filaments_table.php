@@ -15,6 +15,8 @@ class CreateFilamentsTable extends Migration
     {
         Schema::create('filaments', function (Blueprint $table) {
             $table->id();
+            $table->string('fil_type');
+            $table->integer('fil_cost');
             $table->timestamps();
         });
     }
