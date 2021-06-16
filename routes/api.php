@@ -17,3 +17,9 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+// Route::group(['prefix' => 'customers'], function() {
+//     Route::get('/customers', function ($id) {
+//         Route::post('/customers','PracticalController@createCustomer');
+//         Route::put('/{id}', 'PracticalController'
+//     });
+// });

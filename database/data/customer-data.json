@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Kit",
+        "last_name": "Dewbury",
+        "email": "kdewbury0@mlb.com",
+        "phone": "515-961-6915"
+    },
+    {
+        "id": 2,
+        "first_name": "Lorinda",
+        "last_name": "Trahar",
+        "email": "ltrahar1@gravatar.com",
+        "phone": "361-633-7257"
+    },
+    {
+        "id": 3,
+        "first_name": "Earvin",
+        "last_name": "Labitt",
+        "email": "elabitt2@printfriendly.com",
+        "phone": "327-858-8880"
+    },
+    {
+        "id": 4,
+        "first_name": "Daveen",
+        "last_name": "Storah",
+        "email": "dstorah3@amazon.com",
+        "phone": "649-746-2279"
+    },
+    {
+        "id": 5,
+        "first_name": "Zorana",
+        "last_name": "Burr",
+        "email": "zburr4@mit.edu",
+        "phone": "453-370-6809"
+    },
+    {
+        "id": 6,
+        "first_name": "Trent",
+        "last_name": "Fiddiman",
+        "email": "tfiddiman5@mozilla.com",
+        "phone": "681-756-0424"
+    },
+    {
+        "id": 7,
+        "first_name": "Cammi",
+        "last_name": "Fothergill",
+        "email": "cfothergill6@github.io",
+        "phone": "716-234-9403"
+    },
+    {
+        "id": 8,
+        "first_name": "Viviana",
+        "last_name": "Davidowsky",
+        "email": "vdavidowsky7@seesaa.net",
+        "phone": "221-950-3748"
+    },
+    {
+        "id": 9,
+        "first_name": "Vikki",
+        "last_name": "Wolfenden",
+        "email": "vwolfenden8@bbc.co.uk",
+        "phone": "496-620-5354"
+    },
+    {
+        "id": 10,
+        "first_name": "Cullin",
+        "last_name": "Scarlet",
+        "email": "cscarlet9@sitemeter.com",
+        "phone": "464-417-6460"
+    }
+]
